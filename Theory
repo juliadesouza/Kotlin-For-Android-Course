@@ -9,3 +9,11 @@ There are 2 types of intents:
 
 CONTEXT
 - Information about their enviroment
+
+LIFECYCLE
+- onCreate: called just one time before the screen appears to the user.
+- onStart: make activity visible to the user -> initialize its UI elements onde on start is complete.
+- onResume: 
+- onPause: when you move away from the activity
+- onStop: 
+- onDestroy: 
