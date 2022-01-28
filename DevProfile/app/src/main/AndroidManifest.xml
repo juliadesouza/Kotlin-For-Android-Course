@@ -14,7 +14,9 @@
         android:theme="@style/Theme.DevProfile"
         tools:targetApi="31">
         <activity
+            android:configChanges="keyboardHidden|orientation"
             android:name=".MainActivity"
+            android:screenOrientation="fullSensor"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
