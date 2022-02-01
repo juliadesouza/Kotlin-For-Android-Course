@@ -16,4 +16,4 @@ LIFECYCLE
 - onResume: 
 - onPause: when you move away from the activity
 - onStop: 
-- onDestroy: 
+- onDestroy: the last method called when you navigate away from an activity
