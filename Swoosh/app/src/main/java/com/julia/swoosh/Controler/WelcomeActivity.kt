@@ -1,8 +1,8 @@
-package com.julia.swoosh
+package com.julia.swoosh.Controler
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.julia.swoosh.R
 import kotlinx.android.synthetic.main.activity_welcome.*
 
 class WelcomeActivity : BaseActivity() {
