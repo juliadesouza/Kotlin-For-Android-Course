@@ -20,3 +20,5 @@ LIFECYCLE
 
 PARCELABLE
 Wrap up everything inside of a class and put it into a format that is able to be passed around from activity to activity and the on the other side be unwrapped.
+
+RECYCLER VIEW
