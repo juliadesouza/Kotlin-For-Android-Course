@@ -1,3 +1,18 @@
+MANIFEST FILE 
+- Provides essential information about your app 
+to the Android system, which the system must have before it can
+run any of the apps code.
+
+DRAWABLE FOLDER 
+- where we're going to be putting our images and 
+other assets. 
+
+VARIABLES
+- Mutable: 
+    var name = "Julia"
+- Imutable:
+    val name = "Julia"
+
 INTENT 
 - Is a obj that lets you interact with other applications. 
 There are 2 types of intents: 
